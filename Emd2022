@@ -1,0 +1,89 @@
+<p>&nbsp;</p>
+<p><strong><u>Question1 </u></strong>(6pts)&nbsp;: Une goutte de liquide de tension&nbsp; superficielle <strong>&gamma;</strong> &eacute;tal&eacute;e sur une surface solide, elle forme un angle de contact <strong>&theta;.</strong></p>
+<ul>
+<li>Donner la relation entre la tension de surface et l&rsquo;angle&nbsp; &theta; .</li>
+<li>Quel est l&rsquo;effet d&rsquo;ajoute d&rsquo;un tensioactif et de l&rsquo;augmentation de la temp&eacute;rature sur l&rsquo;angle de contact
+<ul>
+<li>Repr&eacute;senter&nbsp;&agrave; l'aide&nbsp;d'un sch&eacute;ma, la mani&egrave;re dont les tensioactifs se placent&nbsp; &agrave; la surface de l&rsquo;eau. Dans le cas d&rsquo;une &eacute;mulsion eau dans l&rsquo;huile et dans le cas d&rsquo;une bulle de savon</li>
+</ul>
+</li>
+<li>quelle est la diff&eacute;rence entre l'adsorption et l'absorption ?</li>
+</ul>
+<p>&nbsp;<strong><u>Exercice1&nbsp;(6pts):&nbsp;&nbsp; </u></strong>Une goutte d'eau de volume <strong>V</strong> est prise en sandwich entre deux plaques de verre s&eacute;par&eacute;es par une distance <strong>h</strong> , donner l'expression&nbsp;de la force capillaire agissant sur les plaques. Supposons que le rayon de la r&eacute;gion humide<strong> r</strong> soit plus grand que <strong>h</strong> et &theta;&nbsp; &nbsp;l'angle de contact de l'eau sur le verre .</p>
+<p>&nbsp;<strong>Exercice2 (4pts)</strong></p>
+<p>On mesure la tension superficielle d&rsquo;une solution aqueuse du surfactant CTAB ( Bromure d&rsquo;hexadecyletrimethyleammonium a 25&deg;C.</p>
+<table width="606">
+<tbody>
+<tr>
+<td style="width: 74.3594px;">
+<p>C[M]</p>
+</td>
+<td style="width: 54.5px;">
+<p>1 x 10<sup>-4</sup></p>
+</td>
+<td style="width: 61.125px;">
+<p>1.6 x 10<sup>-4</sup></p>
+</td>
+<td style="width: 54.5px;">
+<p>4 x 10<sup>-4</sup></p>
+</td>
+<td style="width: 61.125px;">
+<p>6.3 x 10<sup>-4</sup></p>
+</td>
+<td style="width: 55.9844px;">
+<p>1 x 10<sup>-3</sup></p>
+</td>
+<td style="width: 62.6094px;">
+<p>1.6 x 10<sup>-3</sup></p>
+</td>
+<td style="width: 62.6094px;">
+<p>2.5 x 10<sup>-3</sup></p>
+</td>
+<td style="width: 61.1875px;">
+<p>4 x 10<sup>-3</sup></p>
+</td>
+</tr>
+<tr>
+<td style="width: 74.3594px;">
+<p><strong>ᵞ </strong>[mN/m]</p>
+</td>
+<td style="width: 54.5px;">
+<p>64</p>
+</td>
+<td style="width: 61.125px;">
+<p>59</p>
+</td>
+<td style="width: 54.5px;">
+<p>51</p>
+</td>
+<td style="width: 61.125px;">
+<p>45</p>
+</td>
+<td style="width: 55.9844px;">
+<p>37.8</p>
+</td>
+<td style="width: 62.6094px;">
+<p>38.3</p>
+</td>
+<td style="width: 62.6094px;">
+<p>38.2</p>
+</td>
+<td style="width: 61.1875px;">
+<p>38</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;Estimez pour ce surfactant la concentration micellaire critique</p>
+<ul>
+<li>Soit<strong> a<sub>0</sub></strong> est la surface de la t&ecirc;te polaire du tensioactif et <strong>V</strong> et <strong>lc </strong>le volume et la longueur maximale de la cha&icirc;ne aliphatique , on donne&nbsp; <strong>a<sub>0&nbsp;&nbsp; </sub>= 0.6 nm<sup>2</sup> <sub>&nbsp;</sub>V= 0.538 nm<sup>3</sup></strong> et <strong>lc=2.69 nm</strong></li>
+</ul>
+<p>montrer que les structures des micelles s&rsquo;organisent sous une forme sph&eacute;rique</p>
+<p>&nbsp;<strong>Exercice</strong><strong> 3(4pts)</strong><strong>◦ </strong>soit un tube de diam&egrave;tre int&eacute;rieur <strong>R</strong> plongeant verticalement dans un liquide de tension&nbsp; superficielle <strong>&gamma;</strong> et de masse volumique&nbsp;<strong>r</strong>&nbsp;.&nbsp; Soit <strong>h</strong>&nbsp;la hauteur de l'&eacute;l&eacute;vation du liquide dans le tube. On pose &theta;&nbsp;l'angle de raccordement du liquide avec le verre du tube.&nbsp;</p>
+<ul>
+<li>D&eacute;montrer que</li>
+</ul>
+<p>&nbsp;Avec l'eau, on trouve h &nbsp;= 92,3 mm (r = 0,9973.10<sup>3</sup>&nbsp;kg.m<sup>-3</sup>, &gamma;&nbsp;= 71,93.10<sup>-3</sup>N&nbsp;/m).<br /> Pour le benz&egrave;ne, on trouve h = 42,4 mm.&nbsp; On suppose que le mouillage et parfait. &nbsp;En d&eacute;duire la constante de tension superficielle du benz&egrave;ne sachant que sa masse volumique&nbsp;r= 0,8840. 10<sup>3 </sup>&nbsp;kg. m<sup>-3</sup></p>
+<ul>
+<li>Determiner la valeur de <strong>h</strong> pour le mercure ou &theta; =135&deg;C ,&nbsp; &gamma;&nbsp;= 0.47N&nbsp;/m est la masse volumique r=&nbsp; 13590&nbsp;kg&nbsp;/&nbsp;m<sup>3&nbsp; </sup>,</li>
+</ul>
